@@ -1,0 +1,18 @@
+{
+  "name": "telegrambot_nodejs",
+  "version": "1.0.0",
+  "description": "This project is a Telegram bot built using Node.js. It demonstrates how to interact with the Telegram Bot API, handle user commands, and perform various tasks such as reading and writing files asynchronously. The bot is designed to be modular, scalable, and easy to extend with additional features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.64.8"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
